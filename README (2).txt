@@ -1,0 +1,3 @@
+Seguindo o mesmo curso de sql, me aprensentou o basico de html e php e um projeto de criação de blog, segui escrevendo o codigo
+conforme o video me mostrava, aprendi sobre css para customizar sites, criar urls, sobre o cabeçalho do site e o codigo fonte,
+como fazer um site rodar no navegador e como inspecionar ele a conseguir informações úteis, não aprendi sozinho usei bastante o chatgpt, mas deu pra ter uma noção do front end e de como os dados ficam por lá
